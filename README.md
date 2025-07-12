@@ -1,6 +1,7 @@
 # Product-Review-System-
 
-Product-Review-System- is a web application designed to allow users to submit, view, and manage product reviews. The system enables customers to share their experiences, rate products, and help others make informed purchasing decisions.
+Product-Review-System- is a backend-only web application that provides APIs for submitting, viewing, and managing product reviews. The system enables customers to share their experiences, rate products
+
 
 ## Features
 
